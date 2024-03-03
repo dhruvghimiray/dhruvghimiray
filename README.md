@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**dhruvghimiray/dhruvghimiray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruv (Krrish) Ghimiray, a **FULL STACK DEVELOPER** and **AI ML Enthusiast**. 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently an intern as **FULL STACK WEB DEVELOPER**.
+- 💼 Working with **React JS**, **PHP**, **NODE**, **Express JS**, **MySQL**, and **MONGO DB**.
+- 🤖 Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
+- 🎓 Learning and growing every day to become a better developer.
+- 💡 Exploring the endless possibilities of Technologies.
+
+## Tech Stack
+
+- **Frontend:** React JS, Next Js
+- **Backend:** PHP, NODE JS, EXPRESS Js
+- **Database:** MySQL, MONGO DB
+- **Languages:** Javascript, Java, Python
