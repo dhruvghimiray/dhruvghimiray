@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Welcome to My GitHub Profile! 👋
 
 I'm Dhruv (Krrish) Ghimiray, a **FULL STACK DEVELOPER** and **AI ML Enthusiast**. 🚀
 
