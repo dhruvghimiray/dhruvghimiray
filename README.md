@@ -1,18 +1,33 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile
 
-I'm Dhruv (Krrish) Ghimiray, a **FULL STACK DEVELOPER** and **AI ML Enthusiast**. 🚀
+Hi there! I'm **Dhruv (Krrish) Ghimiray** — a **Data Science Enthusiast**, **Machine Learning Explorer**, and **Full-Stack Developer** passionate about transforming data into actionable insights and intelligent systems.
 
-## About Me
+## 🧠 About Me
 
-- 🌱 Currently an intern as **FULL STACK WEB DEVELOPER**.
-- 💼 Working with **React JS**, **PHP**, **NODE**, **Express JS**, **MySQL**, and **MONGO DB**.
-- 🤖 Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-- 🎓 Learning and growing every day to become a better developer.
-- 💡 Exploring the endless possibilities of Technologies.
+- 📊 Currently focused on **Data Science**, **Machine Learning**, and **Statistical Analysis**.  
+- 💻 Working as a **Full-Stack Web Developer Intern**, building scalable applications and APIs.  
+- 🤝 Skilled at bridging **software engineering** and **data-driven problem solving**.  
+- 🧩 Exploring the fascinating world of **AI**, **Deep Learning**, and **Predictive Modeling**.  
+- 🚀 Lifelong learner with a passion for **technology, mathematics, and innovation**.  
 
-## Tech Stack
+## 🧰 Tech Stack
 
-- **Frontend:** React JS, Next Js
-- **Backend:** PHP, NODE JS, EXPRESS Js
-- **Database:** MySQL, MONGO DB
-- **Languages:** Javascript, Java, Python
+**Data Science & Analytics:**  
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Statistics` · `Hypothesis Testing`
+
+**Machine Learning:**  
+Supervised & Unsupervised Learning · Model Evaluation · Feature Engineering · Model Interpretation (SHAP)
+
+**Web Development:**  
+`React.js` · `Next.js` · `Node.js` · `Express.js` · `PHP`
+
+**Databases:**  
+`MySQL` · `MongoDB`
+
+**Programming Languages:**  
+`Python` · `JavaScript` · `Java`
+
+---
+
+⭐ **“Code. Analyze. Learn. Repeat.”**  
+Let’s connect and explore the limitless possibilities of data and technology!
