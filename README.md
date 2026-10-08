@@ -5,7 +5,6 @@ Hi there! I'm **Dhruv (Krrish) Ghimiray** — a **Data Science Enthusiast**, **M
 ## 🧠 About Me
 
 - 📊 Currently focused on **Data Science**, **Machine Learning**, and **Statistical Analysis**.  
-- 💻 Working as a **Full-Stack Software Engineer **, building scalable applications and APIs.  
 - 🤝 Skilled at bridging **software engineering** and **data-driven problem solving**.  
 - 🧩 Exploring the fascinating world of **AI**, **Deep Learning**, and **Predictive Modeling**.  
 - 🚀 Lifelong learner with a passion for **technology, mathematics, and innovation**.  
