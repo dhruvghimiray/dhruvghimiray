@@ -1,15 +1,15 @@
 # 👋 Welcome to My GitHub Profile
 
-Hi there! I'm **Dhruv (Krrish) Ghimiray** — a **Data Science Enthusiast**, **Machine Learning Explorer**, and **Full-Stack Developer** passionate about transforming data into actionable insights and intelligent systems.
+Hi there! I'm **Dhruv (Krrish) Ghimiray** — a **Data Science Enthusiast**, **Machine Learning Explorer**, and **Full-Stack Software Engineer** passionate about transforming data into actionable insights and intelligent systems.
 
-## 🧠 About Me
+##  About Me
 
-- 📊 Currently focused on **Data Science**, **Machine Learning**, and **Statistical Analysis**.  
-- 🤝 Skilled at bridging **software engineering** and **data-driven problem solving**.  
-- 🧩 Exploring the fascinating world of **AI**, **Deep Learning**, and **Predictive Modeling**.  
-- 🚀 Lifelong learner with a passion for **technology, mathematics, and innovation**.  
+-  Currently focused on **Data Science**, **Machine Learning**, and **Statistics**.  
+-  Skilled at bridging **software engineering** and **data-driven problem solving**.  
+-  Exploring the fascinating world of **AI**, **Deep Learning**, and **Predictive Modeling**.  
+-  Lifelong learner with a passion for **technology, mathematics, and innovation**.  
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Data Science & Analytics:**  
 `Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Statistics` · `Hypothesis Testing`
@@ -28,5 +28,5 @@ Supervised & Unsupervised Learning · Model Evaluation · Feature Engineering ·
 
 ---
 
-⭐ **“Code. Analyze. Learn. Repeat.”**  
+ **“Code. Analyze. Learn. Repeat.”**  
 Let’s connect and explore the limitless possibilities of data and technology!
